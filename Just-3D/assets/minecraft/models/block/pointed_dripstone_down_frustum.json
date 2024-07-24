@@ -1,0 +1,47 @@
+{
+	"credit": "Made by sniffercraft34",
+	"ambientocclusion": false,
+	"textures": {
+		"0": "block/pointed_dripstone_down_frustum",
+		"particle": "block/pointed_dripstone_down_frustum"
+	},
+	"elements": [
+		{
+			"from": [5, 0, 5],
+			"to": [11, 3, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5, 0, 7]},
+			"faces": {
+				"north": {"uv": [3, 0, 8, 3], "texture": "#0"},
+				"east": {"uv": [3, 0, 8, 3], "texture": "#0"},
+				"south": {"uv": [3, 0, 8, 3], "texture": "#0"},
+				"west": {"uv": [3, 0, 8, 3], "texture": "#0"},
+				"down": {"uv": [3, 0, 8, 3], "texture": "#0", "cullface": "down"}
+			}
+		},
+		{
+			"from": [4, 3, 4],
+			"to": [12, 9, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5, 3, 7]},
+			"faces": {
+				"north": {"uv": [3, 0, 8, 3], "texture": "#0"},
+				"east": {"uv": [3, 0, 8, 3], "texture": "#0"},
+				"south": {"uv": [3, 0, 8, 3], "texture": "#0"},
+				"west": {"uv": [3, 0, 8, 3], "texture": "#0"},
+				"down": {"uv": [3, 0, 8, 3], "texture": "#0"}
+			}
+		},
+		{
+			"from": [3, 9, 3],
+			"to": [13, 16, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5, 9, 7]},
+			"faces": {
+				"north": {"uv": [3, 0, 8, 3], "texture": "#0"},
+				"east": {"uv": [3, 0, 8, 3], "texture": "#0"},
+				"south": {"uv": [3, 0, 8, 3], "texture": "#0"},
+				"west": {"uv": [3, 0, 8, 3], "texture": "#0"},
+				"up": {"uv": [3, 0, 8, 3], "texture": "#0", "cullface": "up"},
+				"down": {"uv": [3, 0, 8, 3], "texture": "#0"}
+			}
+		}
+	]
+}

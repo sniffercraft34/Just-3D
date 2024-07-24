@@ -1,0 +1,86 @@
+{
+	"credit": "Made by sniffercraft34",
+	"ambientocclusion": false,
+	"textures": {
+		"0": "block/iron_bars",
+		"particle": "block/iron_bars"
+	},
+	"elements": [
+		{
+			"from": [6.99966, 0.00094, 0.00098],
+			"to": [8.99966, 0.50094, 8.00098],
+			"faces": {
+				"north": {"uv": [9, 0, 7, 8], "texture": "#0"},
+				"east": {"uv": [9, 0, 7, 8], "texture": "#0"},
+				"south": {"uv": [9, 0, 7, 8], "texture": "#0"},
+				"west": {"uv": [9, 0, 7, 8], "texture": "#0"},
+				"up": {"uv": [9, 0, 7, 8], "texture": "#0"},
+				"down": {"uv": [9, 0, 7, 10], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6.99941, 15.49985, -0.0004],
+			"to": [8.99941, 15.99985, 7.9996],
+			"faces": {
+				"north": {"uv": [7, 0, 9, 8], "texture": "#0"},
+				"east": {"uv": [7, 0, 9, 8], "texture": "#0"},
+				"south": {"uv": [7, 0, 9, 8], "texture": "#0"},
+				"west": {"uv": [7, 0, 9, 8], "texture": "#0"},
+				"up": {"uv": [7, 0, 9, 8], "texture": "#0"},
+				"down": {"uv": [7, 0, 9, 8], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Box4",
+			"from": [7.5002, 0.37556, 7.00021],
+			"to": [8.5002, 15.62556, 8.00021],
+			"faces": {
+				"north": {"uv": [12, 0, 13, 16], "texture": "#0"},
+				"east": {"uv": [12, 0, 13, 16], "texture": "#0"},
+				"south": {"uv": [12, 0, 13, 16], "texture": "#0"},
+				"west": {"uv": [12, 0, 13, 16], "texture": "#0"},
+				"up": {"uv": [12, 15, 13, 16], "texture": "#0"},
+				"down": {"uv": [12, 0, 13, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Box4",
+			"from": [7.50019, 1.99969, 3.99912],
+			"to": [8.50019, 3.99969, 6.99912],
+			"faces": {
+				"north": {"uv": [0, 7, 3, 9], "texture": "#0"},
+				"east": {"uv": [0, 7, 3, 9], "texture": "#0"},
+				"south": {"uv": [0, 7, 3, 9], "texture": "#0"},
+				"west": {"uv": [0, 7, 3, 9], "texture": "#0"},
+				"up": {"uv": [0, 7, 3, 9], "texture": "#0"},
+				"down": {"uv": [0, 7, 3, 9], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Box4",
+			"from": [7.50039, 0.31203, 1.99979],
+			"to": [8.50039, 15.99953, 3.99979],
+			"faces": {
+				"north": {"uv": [2, 0, 4, 16], "texture": "#0"},
+				"east": {"uv": [2, 0, 4, 16], "texture": "#0"},
+				"south": {"uv": [2, 0, 4, 16], "texture": "#0"},
+				"west": {"uv": [2, 0, 4, 16], "texture": "#0"},
+				"up": {"uv": [2, 0, 4, 16], "texture": "#0"},
+				"down": {"uv": [2, 0, 4, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Box4",
+			"from": [7.4992, 7.00044, 0.00026],
+			"to": [8.4992, 9.00044, 2.00026],
+			"faces": {
+				"north": {"uv": [0, 7, 2, 9], "texture": "#0"},
+				"east": {"uv": [0, 7, 2, 9], "texture": "#0"},
+				"south": {"uv": [0, 7, 2, 9], "texture": "#0"},
+				"west": {"uv": [0, 7, 2, 9], "texture": "#0"},
+				"up": {"uv": [0, 7, 2, 9], "texture": "#0"},
+				"down": {"uv": [0, 7, 2, 9], "texture": "#0"}
+			}
+		}
+	]
+}
